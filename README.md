@@ -130,4 +130,5 @@ Use the on-screen menu to manage the canteen system!
 # 📷 SCREENSHOT
 
 
+<img width="1920" height="1080" alt="Screenshot (123)" src="https://github.com/user-attachments/assets/ae9cdb4c-9b9a-4d92-82b3-06dd033c48e2" />
 
