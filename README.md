@@ -130,5 +130,5 @@ Use the on-screen menu to manage the canteen system!
 # 📷 SCREENSHOT
 
 
-![Project]()
+![Project](https://github.com/Vinayak07032007/Canteen-management-System/blob/873a0fd35ba45419130b31601701195fda7f89c6/Project.png)
 
